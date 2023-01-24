@@ -1,0 +1,52 @@
+.container{padding: 0px; margin: 0px; box-sizing: border-box;}
+.header{height: 130px; width: 100%; background:white;}
+.left{height: 130px; width: 59%; background: whitesmoke; float: left; border-top: 2px solid red;
+    border-bottom: 2px solid red;  border-left: 2px solid red;border-top-left-radius: 8px;
+border-bottom-left-radius: 8px;}
+.right{height: 130px; width: 40%; background: whitesmoke; float: left;border-top: 2px solid red;
+    border-bottom: 2px solid red;  border-right: 2px solid red; border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;}
+img{height: 50px; width: 80px;padding-left: 10px;padding-top: 8px;}
+.header #a{padding-left: 10px;}
+.header #b{color: red;padding-left: 75%;}
+.right p{padding-top: 50px; padding-left: 10%; color: blue;}
+.right h4{ text-align: center; border: 2px solid blue; word-spacing: 20px; border-radius: 5px; cursor: pointer;}
+.nav{height: 100px; width: 99%; background: url('../image/h6.jpg'); border: 2px solid red; 
+    margin-top:5px; border-radius: 12px; background-position: center; background-size: cover; 
+    background-repeat:no-repeat ; box-shadow: 0px 8px 15px;}
+.center{height: 600px; width: 99%; background: white; border: 2px solid black; padding: 5px;
+border-radius: 8px; margin-top: 2px;}
+.center .left{height: 600px; width: 69%; background: wheat; float: left; border: 2px solid blue;
+border-radius: 8px; box-shadow: 0px 8px 15px;}
+.center .left #o{float: right; font-weight: bold;}
+.center .left p{text-transform: capitalize; text-align: justify;word-spacing: 5px;}
+
+.center .right{height: 548px; width: 30%; background: grey; float: left; border: 2px solid red;
+border-radius: 8px;box-shadow: 0px 6px 15px;}
+.center .right h3{color: white; font-size: 20px; padding-left: 10%; padding-top: 20px;}
+.center .right img{height: 120px; width: 180px; padding-left: 20%; padding-top: 25px;} 
+.center .right .x{color: white; padding-top: 10px;padding-left: 15px;}
+.center .right span{font-size: 40px; padding-top: 15px; padding-left: 8px;}
+.center .right .y{color: red; background: white;text-align: center;padding-top: 5px;
+padding-left: 0px; font-size: 20px;}
+.center .right .z{padding-top: 10px; padding-left: 60%; background: white;font-size: 20px;}
+
+.footer{height: 230px;width: 100%; background: white; border: 2px solid black; border-radius: 8px;
+margin-top: 5px;}
+.footer #g{padding-left: 93%;color: blue;font-weight: bold;}
+.footer .left{height: 170px; width: 30%; border: 2px solid black; border-radius: 8px;
+ float: left; margin-left: 10px;background: white;}
+.footer .left #h{font-weight: bold;}
+.footer .center{height: 160px; width: 30%; border: 2px solid black; border-radius: 8px;
+float: left; margin-bottom: 5px; margin-left: 5px; margin-top: 0px; background: white;}
+.footer .center h3{padding-top: 0px;}
+.footer .center img{height: 100px;width: 100%; padding: 0px;}
+.footer .right{height: 170px; width: 30%; border: 2px solid black; border-radius: 8px;
+float: left;margin-left: 5px; background: white;}
+.footer .right .left{height:170; width: 50%; float: left; margin-top: 0px;margin-left: 0px;border: 0px;
+}
+.footer .right .rights{height:170; width: 50%; float: left; padding-top: 45px;}
+li{color: red;}
+/*iframe #j{border-radius: 10px; margin-top: 20px; float: left;}*/
+iframe{border-radius: 12px; float: left; margin-top: 20px;}
+
